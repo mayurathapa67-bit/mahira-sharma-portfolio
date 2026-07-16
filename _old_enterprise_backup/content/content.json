@@ -1,0 +1,294 @@
+{
+  "case_studies": [
+    {
+      "slug": "enterprise-fintech-traffic",
+      "client": "Apex Capital",
+      "industry": "Finance",
+      "category": "Technical SEO",
+      "challenge": "A legacy fintech platform lost 40% organic visibility after a site migration broke 12,000 canonical signals.",
+      "strategy": [
+        "Re-architected the crawl budget with a tiered XML sitemap and log-file driven pruning",
+        "Deployed entity-based internal linking across 3,400 product pages",
+        "Resolved Core Web Vitals regressions (LCP 4.1s → 1.3s)"
+      ],
+      "results": {
+        "traffic_growth": 318,
+        "keyword_increase": 5400,
+        "revenue_impact": 2100000,
+        "chart_data": [
+          { "date": "2024-01", "value": 142000 },
+          { "date": "2024-02", "value": 168000 },
+          { "date": "2024-03", "value": 201000 },
+          { "date": "2024-04", "value": 243000 },
+          { "date": "2024-05", "value": 298000 },
+          { "date": "2024-06", "value": 351000 },
+          { "date": "2024-07", "value": 402000 },
+          { "date": "2024-08", "value": 459000 },
+          { "date": "2024-09", "value": 518000 },
+          { "date": "2024-10", "value": 571000 },
+          { "date": "2024-11", "value": 624000 },
+          { "date": "2024-12", "value": 689000 }
+        ]
+      },
+      "featured_image": "https://res.cloudinary.com/demo/image/upload/v1/samples/fintech.jpg",
+      "published_date": "2024-12-15",
+      "client_since": "2021",
+      "testimonial": {
+        "quote": "Mahira rewired our entire technical foundation in one quarter. The compounding organic growth funded two new product lines.",
+        "author": "Priya Nair",
+        "role": "VP Growth, Apex Capital"
+      },
+      "before_after": { "before": 142000, "after": 689000, "label": "Monthly Organic Sessions" }
+    },
+    {
+      "slug": "global-ecommerce-expansion",
+      "client": "Lumen Retail Group",
+      "industry": "E-commerce",
+      "category": "E-commerce",
+      "challenge": "A 9-country storefront cannibalised itself with duplicate hreflang and conflicting regional URLs.",
+      "strategy": [
+        "Built a single-source hreflang matrix with automated conflict detection",
+        "Launched category-page templates driven by search-demand clustering",
+        "Recovered wasted crawl with faceted-navigation robots orchestration"
+      ],
+      "results": {
+        "traffic_growth": 264,
+        "keyword_increase": 8700,
+        "revenue_impact": 3400000,
+        "chart_data": [
+          { "date": "2024-01", "value": 98000 },
+          { "date": "2024-02", "value": 112000 },
+          { "date": "2024-03", "value": 131000 },
+          { "date": "2024-04", "value": 156000 },
+          { "date": "2024-05", "value": 178000 },
+          { "date": "2024-06", "value": 205000 },
+          { "date": "2024-07", "value": 231000 },
+          { "date": "2024-08", "value": 262000 },
+          { "date": "2024-09", "value": 291000 },
+          { "date": "2024-10", "value": 324000 },
+          { "date": "2024-11", "value": 358000 },
+          { "date": "2024-12", "value": 394000 }
+        ]
+      },
+      "featured_image": "https://res.cloudinary.com/demo/image/upload/v1/samples/ecommerce.jpg",
+      "published_date": "2024-11-02",
+      "client_since": "2020",
+      "testimonial": {
+        "quote": "Our international revenue finally stopped fighting itself. Clean signals, clean growth.",
+        "author": "Daniel Okafor",
+        "role": "Head of Digital, Lumen Retail"
+      },
+      "before_after": { "before": 98000, "after": 394000, "label": "Monthly Organic Sessions" }
+    },
+    {
+      "slug": "saas-product-led-growth",
+      "client": "Northwind Cloud",
+      "industry": "SaaS",
+      "category": "SaaS",
+      "challenge": "A product-led SaaS had strong brand but zero organic pipeline from bottom-funnel comparison queries.",
+      "strategy": [
+        "Mapped 1,200 competitor comparison intents into a programmatic content engine",
+        "Wove product docs into the topical authority graph",
+        "Built a link-worthy data report earning 420 referring domains"
+      ],
+      "results": {
+        "traffic_growth": 412,
+        "keyword_increase": 11200,
+        "revenue_impact": 2800000,
+        "chart_data": [
+          { "date": "2024-01", "value": 64000 },
+          { "date": "2024-02", "value": 79000 },
+          { "date": "2024-03", "value": 98000 },
+          { "date": "2024-04", "value": 121000 },
+          { "date": "2024-05", "value": 148000 },
+          { "date": "2024-06", "value": 179000 },
+          { "date": "2024-07", "value": 214000 },
+          { "date": "2024-08", "value": 251000 },
+          { "date": "2024-09", "value": 293000 },
+          { "date": "2024-10", "value": 337000 },
+          { "date": "2024-11", "value": 386000 },
+          { "date": "2024-12", "value": 438000 }
+        ]
+      },
+      "featured_image": "https://res.cloudinary.com/demo/image/upload/v1/samples/saas.jpg",
+      "published_date": "2024-10-19",
+      "client_since": "2022",
+      "testimonial": {
+        "quote": "Mahira turned our docs into a demand engine. Trial signups from organic 4x'd in three quarters.",
+        "author": "Sofia Rossi",
+        "role": "CMO, Northwind Cloud"
+      },
+      "before_after": { "before": 64000, "after": 438000, "label": "Monthly Organic Sessions" }
+    },
+    {
+      "slug": "healthcare-trust-network",
+      "client": "VitalCare Network",
+      "industry": "Healthcare",
+      "category": "International",
+      "challenge": "A healthcare provider needed YMYL-safe authority across 4 languages without triggering E-E-A-T penalties.",
+      "strategy": [
+        "Established clinician-authored E-E-A-T signals on every condition hub",
+        "Localised schema and medical entity linking per market",
+        "Engineered a citation network of 280 authoritative health domains"
+      ],
+      "results": {
+        "traffic_growth": 221,
+        "keyword_increase": 6300,
+        "revenue_impact": 1600000,
+        "chart_data": [
+          { "date": "2024-01", "value": 71000 },
+          { "date": "2024-02", "value": 82000 },
+          { "date": "2024-03", "value": 95000 },
+          { "date": "2024-04", "value": 109000 },
+          { "date": "2024-05", "value": 124000 },
+          { "date": "2024-06", "value": 139000 },
+          { "date": "2024-07", "value": 156000 },
+          { "date": "2024-08", "value": 171000 },
+          { "date": "2024-09", "value": 188000 },
+          { "date": "2024-10", "value": 203000 },
+          { "date": "2024-11", "value": 219000 },
+          { "date": "2024-12", "value": 234000 }
+        ]
+      },
+      "featured_image": "https://res.cloudinary.com/demo/image/upload/v1/samples/healthcare.jpg",
+      "published_date": "2024-09-08",
+      "client_since": "2021",
+      "testimonial": {
+        "quote": "Trust is everything in healthcare SEO. Mahira built it methodically and the rankings followed.",
+        "author": "Dr. Anil Mehta",
+        "role": "Director of Digital, VitalCare"
+      },
+      "before_after": { "before": 71000, "after": 234000, "label": "Monthly Organic Sessions" }
+    },
+    {
+      "slug": "travel-demand-recovery",
+      "client": "Wayfinder Travel",
+      "industry": "Travel",
+      "category": "International",
+      "challenge": "Post-pandemic travel brand needed to recapture lost destination demand across 6 regions simultaneously.",
+      "strategy": [
+        "Rebuilt destination hubs around seasonal intent and real-time availability",
+        "Pruned 18,000 thin pages and consolidated into authority clusters",
+        "Launched a structured-data rich-result strategy for hotels & flights"
+      ],
+      "results": {
+        "traffic_growth": 287,
+        "keyword_increase": 9200,
+        "revenue_impact": 2200000,
+        "chart_data": [
+          { "date": "2024-01", "value": 87000 },
+          { "date": "2024-02", "value": 101000 },
+          { "date": "2024-03", "value": 119000 },
+          { "date": "2024-04", "value": 138000 },
+          { "date": "2024-05", "value": 161000 },
+          { "date": "2024-06", "value": 187000 },
+          { "date": "2024-07", "value": 213000 },
+          { "date": "2024-08", "value": 242000 },
+          { "date": "2024-09", "value": 271000 },
+          { "date": "2024-10", "value": 301000 },
+          { "date": "2024-11", "value": 328000 },
+          { "date": "2024-12", "value": 357000 }
+        ]
+      },
+      "featured_image": "https://res.cloudinary.com/demo/image/upload/v1/samples/travel.jpg",
+      "published_date": "2024-08-14",
+      "client_since": "2020",
+      "testimonial": {
+        "quote": "We reclaimed our category in under a year. The data discipline was unreal.",
+        "author": "Marco Bianchi",
+        "role": "Growth Lead, Wayfinder"
+      },
+      "before_after": { "before": 87000, "after": 357000, "label": "Monthly Organic Sessions" }
+    },
+    {
+      "slug": "education-enrollment-engine",
+      "client": "Brightpath Institute",
+      "industry": "Education",
+      "category": "SaaS",
+      "challenge": "An education provider's course pages ranked but converted poorly due to weak topical relevance.",
+      "strategy": [
+        "Clustered 600 courses into career-outcome topical hubs",
+        "Added FAQ + HowTo schema increasing rich-result CTR by 38%",
+        "Built a scholarship link magnet earning national press"
+      ],
+      "results": {
+        "traffic_growth": 198,
+        "keyword_increase": 5100,
+        "revenue_impact": 1300000,
+        "chart_data": [
+          { "date": "2024-01", "value": 58000 },
+          { "date": "2024-02", "value": 67000 },
+          { "date": "2024-03", "value": 78000 },
+          { "date": "2024-04", "value": 89000 },
+          { "date": "2024-05", "value": 101000 },
+          { "date": "2024-06", "value": 114000 },
+          { "date": "2024-07", "value": 128000 },
+          { "date": "2024-08", "value": 141000 },
+          { "date": "2024-09", "value": 155000 },
+          { "date": "2024-10", "value": 169000 },
+          { "date": "2024-11", "value": 181000 },
+          { "date": "2024-12", "value": 196000 }
+        ]
+      },
+      "featured_image": "https://res.cloudinary.com/demo/image/upload/v1/samples/education.jpg",
+      "published_date": "2024-07-21",
+      "client_since": "2022",
+      "testimonial": {
+        "quote": "Enrollments from organic search became our #1 channel. Mahira made it predictable.",
+        "author": "Helen Carter",
+        "role": "Director of Marketing, Brightpath"
+      },
+      "before_after": { "before": 58000, "after": 196000, "label": "Monthly Organic Sessions" }
+    }
+  ],
+  "certifications": [
+    { "name": "Google Analytics 4", "issuer": "Google", "issued": "2023-03", "valid_until": "2026-03", "acronym": "GA4" },
+    { "name": "SEMrush SEO Toolkit", "issuer": "SEMrush", "issued": "2022-09", "valid_until": "Lifetime", "acronym": "SEM" },
+    { "name": "Ahrefs Technical SEO", "issuer": "Ahrefs", "issued": "2022-11", "valid_until": "Lifetime", "acronym": "AHR" },
+    { "name": "Moz SEO Essentials", "issuer": "Moz", "issued": "2021-06", "valid_until": "Lifetime", "acronym": "MOZ" },
+    { "name": "HubSpot Content Marketing", "issuer": "HubSpot", "issued": "2023-01", "valid_until": "2026-01", "acronym": "HUB" }
+  ],
+  "tools": [
+    { "name": "Screaming Frog", "category": "Crawl", "proficiency": 97 },
+    { "name": "Google Analytics 4", "category": "Analytics", "proficiency": 96 },
+    { "name": "Google Search Console", "category": "Analytics", "proficiency": 98 },
+    { "name": "Ahrefs", "category": "Research", "proficiency": 95 },
+    { "name": "SEMrush", "category": "Research", "proficiency": 93 },
+    { "name": "Python", "category": "Automation", "proficiency": 90 },
+    { "name": "Looker Studio", "category": "Visualization", "proficiency": 94 },
+    { "name": "Surfer SEO", "category": "Content", "proficiency": 91 },
+    { "name": "ContentKing", "category": "Monitoring", "proficiency": 88 }
+  ],
+  "timeline": [
+    { "year": "2018", "achievement": "Launched first enterprise SEO engagement for a ASX-listed retailer", "impact": "$420K revenue attributed" },
+    { "year": "2019", "achievement": "Led a site migration protecting 100% of organic equity", "impact": "0% traffic loss" },
+    { "year": "2020", "achievement": "Drove 450% organic traffic growth for an enterprise client", "impact": "$2.1M revenue generated" },
+    { "year": "2021", "achievement": "Scaled international SEO across 9 markets", "impact": "3.2M sessions / yr" },
+    { "year": "2022", "achievement": "Built a programmatic content engine for a SaaS leader", "impact": "4x organic pipeline" },
+    { "year": "2023", "achievement": "Architected Core Web Vitals recovery for a fintech", "impact": "LCP 4.1s → 1.3s" },
+    { "year": "2024", "achievement": "Crossed 1.2M monthly organic sessions under management", "impact": "$12M attributed revenue" }
+  ],
+  "blog": [
+    { "slug": "entity-based-internal-linking", "title": "Entity-Based Internal Linking at Enterprise Scale", "category": "Technical SEO", "excerpt": "How to move beyond keyword anchors and build a defensible topical graph that compound rankings.", "read_time": 9, "traffic_potential": 42000, "difficulty": "Advanced", "published_date": "2024-12-01" },
+    { "slug": "crawl-budget-audit", "title": "The 2025 Crawl Budget Audit Playbook", "category": "Technical SEO", "excerpt": "A log-file driven framework to reclaim wasted crawl and reallocate it to revenue pages.", "read_time": 7, "traffic_potential": 31000, "difficulty": "Intermediate", "published_date": "2024-11-12" },
+    { "slug": "programmatic-content-engine", "title": "Building a Programmatic Content Engine That Doesn't Get Penalised", "category": "Content Strategy", "excerpt": "Templates, guardrails, and QA loops to scale thousands of pages safely.", "read_time": 11, "traffic_potential": 52000, "difficulty": "Advanced", "published_date": "2024-10-23" },
+    { "slug": "hreflang-conflicts", "title": "Diagnosing Hreflang Conflicts Before They Cost You Rankings", "category": "International", "excerpt": "The five conflict patterns that quietly cannibalise international visibility.", "read_time": 6, "traffic_potential": 26000, "difficulty": "Intermediate", "published_date": "2024-09-30" },
+    { "slug": "march-core-update", "title": "Decoding the March 2025 Core Update", "category": "Algorithm Updates", "excerpt": "What changed, who won, and the E-E-A-T signals that mattered most.", "read_time": 8, "traffic_potential": 68000, "difficulty": "Beginner", "published_date": "2025-03-15" },
+    { "slug": "ai-search-optimization", "title": "Optimising for AI Overviews and Answer Engines", "category": "Algorithm Updates", "excerpt": "Structuring content so models cite you as the source of truth.", "read_time": 10, "traffic_potential": 74000, "difficulty": "Advanced", "published_date": "2025-04-02" }
+  ],
+  "services": [
+    { "id": "starter", "name": "Starter", "price": 2500, "cadence": "per month", "description": "Foundational technical SEO and a quarterly content roadmap for growing teams.", "features": ["Technical SEO audit", "Keyword research (1 cluster)", "Monthly report", "Email support"], "highlighted": false, "roi_multiplier": 2.4 },
+    { "id": "growth", "name": "Growth", "price": 6500, "cadence": "per month", "description": "Full-funnel organic strategy with ongoing content and link programs.", "features": ["Everything in Starter", "Ongoing content production", "Link building (8/mo)", "Bi-weekly strategy calls", "Dashboards"], "highlighted": true, "roi_multiplier": 4.1 },
+    { "id": "enterprise", "name": "Enterprise", "price": 14000, "cadence": "per month", "description": "Dedicated strategist, international scale, and executive reporting.", "features": ["Everything in Growth", "International / hreflang", "Dedicated strategist", "Custom tooling & API", "Quarterly executive review"], "highlighted": false, "roi_multiplier": 6.8 }
+  ],
+  "clients": [
+    { "name": "Apex Capital", "since": "2021", "industry": "Finance" },
+    { "name": "Lumen Retail Group", "since": "2020", "industry": "E-commerce" },
+    { "name": "Northwind Cloud", "since": "2022", "industry": "SaaS" },
+    { "name": "VitalCare Network", "since": "2021", "industry": "Healthcare" },
+    { "name": "Wayfinder Travel", "since": "2020", "industry": "Travel" },
+    { "name": "Brightpath Institute", "since": "2022", "industry": "Education" },
+    { "name": "Meridian Bank", "since": "2019", "industry": "Finance" },
+    { "name": "Orbit Commerce", "since": "2021", "industry": "E-commerce" }
+  ]
+}

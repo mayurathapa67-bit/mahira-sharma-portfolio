@@ -1,0 +1,163 @@
+{
+  "nav": {
+    "logo": "Mahira Sharma",
+    "links": [
+      { "label": "Home", "href": "/" },
+      { "label": "About", "href": "/about" },
+      { "label": "Case Studies", "href": "/portfolio" },
+      { "label": "Services", "href": "/services" },
+      { "label": "Contact", "href": "/contact" }
+    ]
+  },
+  "hero": {
+    "title": "Helping brands rank higher, naturally.",
+    "role": "SEO Specialist",
+    "subtitle": "I help ambitious businesses earn lasting visibility on search — through thoughtful technical work, honest content, and strategy that respects the reader.",
+    "cta_primary": { "label": "View Case Studies", "href": "/portfolio" },
+    "cta_secondary": { "label": "Work With Me", "href": "/contact" },
+    "image": "https://images.unsplash.com/photo-1432888622747-4eb9a8efeb07?auto=format&fit=crop&w=1200&q=80"
+  },
+  "about": {
+    "headline": "I believe search is a conversation, not a contest.",
+    "bio": "I'm Mahira Sharma, an SEO specialist based between Melbourne and Kathmandu. For the past seven years I've helped founders, publishers, and established brands grow through organic search — not with tricks, but with clarity. My work begins with listening: to the audience, to the data, and to the words people actually use when they're looking for help.",
+    "philosophy": "Good SEO is invisible. It reads like good writing, loads like a careful craft, and earns trust before it earns a click. I'd rather build something that ranks because it's genuinely useful than something that games an algorithm for a season.",
+    "expertise": [
+      { "name": "Technical SEO" },
+      { "name": "Content Strategy" },
+      { "name": "Local SEO" },
+      { "name": "Site Architecture" },
+      { "name": "Structured Data" },
+      { "name": "Editorial Calendars" },
+      { "name": "Core Web Vitals" },
+      { "name": "Keyword Research" }
+    ],
+    "experience": [
+      { "year": "2024", "title": "Independent SEO Consultant", "detail": "Partnering with brands across Australia, Nepal, and beyond." },
+      { "year": "2021", "title": "Lead SEO, Boutique Agency", "detail": "Built the organic practice from the ground up for 20+ clients." },
+      { "year": "2019", "title": "Content & SEO Specialist", "detail": "Owned editorial SEO for a national publisher's digital arm." },
+      { "year": "2018", "title": "Marketing Coordinator", "detail": "First taste of search, analytics, and the joy of a climbing curve." }
+    ],
+    "certifications": [
+      { "name": "Google Analytics 4", "issuer": "Google", "year": "2023" },
+      { "name": "Search Engine Optimization", "issuer": "Semrush", "year": "2022" },
+      { "name": "Technical SEO", "issuer": "Ahrefs", "year": "2022" },
+      { "name": "Content Marketing", "issuer": "HubSpot", "year": "2021" }
+    ],
+    "image": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&w=1000&q=80"
+  },
+  "services": [
+    { "title": "Technical SEO", "description": "Crawl, index, and Core Web Vitals audits that remove the friction between your site and the search engines.", "icon": "search", "price": "From $1,200" },
+    { "title": "Content Strategy", "description": "Editorial roadmaps and briefs built around real intent — so every page has a reason to rank.", "icon": "pen", "price": "From $900" },
+    { "title": "Local SEO", "description": "Google Business Profile, citations, and local landing pages that put neighbourhoods on the map.", "icon": "map", "price": "From $750" },
+    { "title": "Site Architecture", "description": "Information architecture and internal linking that helps both users and crawlers find their way.", "icon": "grid", "price": "From $1,500" },
+    { "title": "Structured Data", "description": "Schema that earns rich results and makes your content legible to machines.", "icon": "code", "price": "From $600" },
+    { "title": "SEO Mentoring", "description": "Monthly guidance for in-house teams who want to grow their own organic capability.", "icon": "heart", "price": "From $500" }
+  ],
+  "portfolio": [
+    {
+      "slug": "lumen-boutique-local",
+      "title": "From invisible to booked out: a local boutique",
+      "category": "Local SEO",
+      "excerpt": "A Melbourne retailer struggling to appear in local search. We rebuilt their presence from the Google Business Profile up.",
+      "client": "Lumen Boutique",
+      "results": [
+        { "label": "Map pack visibility", "value": "3x more views" },
+        { "label": "Direction requests", "value": "+180%" },
+        { "label": "Calls from search", "value": "+95%" }
+      ],
+      "published_date": "2024-11-02",
+      "featured_image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "slug": "northwind-content-engine",
+      "title": "A content engine that finally compounded",
+      "category": "Content Strategy",
+      "excerpt": "A SaaS team publishing constantly but ranking for nothing. We restructured around intent and clusters.",
+      "client": "Northwind",
+      "results": [
+        { "label": "Organic traffic", "value": "412% increase" },
+        { "label": "Keywords in top 10", "value": "1,200+" },
+        { "label": "Trial signups", "value": "4x from search" }
+      ],
+      "published_date": "2024-09-18",
+      "featured_image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "slug": "apex-technical-recovery",
+      "title": "Recovering from a messy migration",
+      "category": "Technical SEO",
+      "excerpt": "A fintech platform lost 40% of its visibility overnight after a rebuild. We found the broken signals and fixed them.",
+      "client": "Apex Finance",
+      "results": [
+        { "label": "Traffic recovered", "value": "318% growth" },
+        { "label": "Crawl waste", "value": "-70%" },
+        { "label": "Revenue attributed", "value": "$2.1M" }
+      ],
+      "published_date": "2024-07-30",
+      "featured_image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "slug": "vitalcare-health-authority",
+      "title": "Building trust in a sensitive niche",
+      "category": "Content Strategy",
+      "excerpt": "A healthcare provider needed authority without shortcuts. We leaned into E-E-A-T and clear, caring content.",
+      "client": "VitalCare",
+      "results": [
+        { "label": "Organic sessions", "value": "221% growth" },
+        { "label": "Top-3 rankings", "value": "6,300+" },
+        { "label": "Referrals", "value": "+140%" }
+      ],
+      "published_date": "2024-05-12",
+      "featured_image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "slug": "wayfinder-travel-demand",
+      "title": "Reclaiming destination demand",
+      "category": "Local SEO",
+      "excerpt": "A travel brand wanted its cities back in search. We built local hubs with real, useful intent at their centre.",
+      "client": "Wayfinder",
+      "results": [
+        { "label": "Organic traffic", "value": "287% increase" },
+        { "label": "Local rankings", "value": "Top 3 in 9 regions" },
+        { "label": "Bookings", "value": "+62%" }
+      ],
+      "published_date": "2024-03-21",
+      "featured_image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=1000&q=80"
+    },
+    {
+      "slug": "brightpath-enrollment",
+      "title": "Turning courses into a discovery engine",
+      "category": "Technical SEO",
+      "excerpt": "An education provider ranked but didn't convert. We matched pages to career outcomes and cleaned the structure.",
+      "client": "Brightpath",
+      "results": [
+        { "label": "Organic enrollments", "value": "198% growth" },
+        { "label": "Indexed pages", "value": "+38%" },
+        { "label": "Cost per lead", "value": "-44%" }
+      ],
+      "published_date": "2024-01-15",
+      "featured_image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1000&q=80"
+    }
+  ],
+  "testimonials": [
+    { "quote": "Mahira didn't just improve our rankings — she helped us sound like ourselves. The growth followed naturally.", "name": "Priya Nair", "role": "Founder", "company": "Lumen Boutique", "avatar": "https://i.pravatar.cc/150?img=47" },
+    { "quote": "The most calm, considered SEO partner we've worked with. She explained the 'why' and the numbers moved.", "name": "Daniel Okafor", "role": "Head of Growth", "company": "Northwind", "avatar": "https://i.pravatar.cc/150?img=12" },
+    { "quote": "Our migration could have been a disaster. Mahira caught the issues before they cost us a quarter.", "name": "Sofia Rossi", "role": "CMO", "company": "Apex Finance", "avatar": "https://i.pravatar.cc/150?img=32" },
+    { "quote": "Finally, an SEO who writes like a human and thinks like an engineer. Exactly what our content needed.", "name": "Helen Carter", "role": "Director", "company": "Brightpath", "avatar": "https://i.pravatar.cc/150?img=45" }
+  ],
+  "contact": {
+    "email": "mahira.sharma.seo@gmail.com",
+    "phone": "+61 483 959 765",
+    "location": "Melbourne, Australia / Kathmandu, Nepal",
+    "socials": [
+      { "platform": "LinkedIn", "url": "https://linkedin.com/in/mahira-sharma-seo" },
+      { "platform": "X", "url": "https://x.com/mahiraseo" },
+      { "platform": "Instagram", "url": "https://instagram.com/mahira.seo" }
+    ]
+  },
+  "blog": [
+    { "slug": "entity-based-internal-linking", "title": "Internal linking that actually earns rankings", "excerpt": "Why anchors matter less than meaning, and how to build a link structure that compounds.", "category": "Technical SEO", "published_date": "2024-12-01", "read_time": 7 },
+    { "slug": "crawl-budget-for-humans", "title": "Crawl budget, explained for humans", "excerpt": "A plain-language guide to helping search engines spend their time where it matters.", "category": "Technical SEO", "published_date": "2024-11-10", "read_time": 6 },
+    { "slug": "local-seo-checklist-2025", "title": "The local SEO checklist I actually use", "excerpt": "The handful of signals that move the needle for neighbourhood businesses.", "category": "Local SEO", "published_date": "2024-10-22", "read_time": 5 }
+  ]
+}
